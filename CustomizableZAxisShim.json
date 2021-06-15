@@ -1,0 +1,14 @@
+{
+    "parameterSets": {
+        "3mmGlass-BlueTape": {
+            "ClampHeight": "4",
+            "ClampScale": "[1, 1.062, 1]",
+            "Label": "yes",
+            "Reinforce": "yes",
+            "RodDiameter": "19",
+            "RodDistance": "100",
+            "ShimHeight": "2.9"
+        }
+    },
+    "fileFormatVersion": "1"
+}
